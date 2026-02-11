@@ -1,0 +1,10 @@
+name: Agent CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  ci:
+    uses: doon728/agent-factory-ci-templates/.github/workflows/python-langgraph-agentcore.yml@main
