@@ -8,4 +8,4 @@ on:
 
 jobs:
   ci:
-    uses: doon728/agent-factory-ci/.github/workflows/python-langgraph-agentcore.yml@main
+    uses: doon728/agent-platform-ci/.github/workflows/python-langgraph-agentcore.yml@main
