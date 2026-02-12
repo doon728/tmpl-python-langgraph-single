@@ -16,3 +16,4 @@ This repository follows the standard Agent Factory contract.
 - ### Ownership
 - Platform-owned: .github/workflows/ci.yml, .github/CODEOWNERS, central CI workflow repo
 - App-owned: agent/*, tests/*, README content, dependencies (within guardrails)
+
