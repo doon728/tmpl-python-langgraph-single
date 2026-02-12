@@ -8,4 +8,8 @@ on:
 
 jobs:
   ci:
+    permissions:
+      contents: read
+      packages: write
     uses: doon728/agent-platform-ci/.github/workflows/python-langgraph-agentcore.yml@main
+
