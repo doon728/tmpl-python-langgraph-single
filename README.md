@@ -2,6 +2,7 @@
 Template repo for single LangGraph agent
 trigger ci
 
+
 ## Core Repo Contract (Must Exist in Every Agent Repo)
 This repository follows the standard Agent Factory contract.
 
